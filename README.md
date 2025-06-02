@@ -1,6 +1,6 @@
 🍏 iPhone 13 Pro Max Landing Page
 
-🔗 
+🔗 https://mohammed-sabrymahdy.github.io/simple-project-2-/
 
 A sleek landing page showcasing the iPhone 13 Pro Max with a focus on its design and color variants. Built as a practice project to explore HTML, CSS, and basic web development skills.
 
